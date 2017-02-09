@@ -1,0 +1,21 @@
+<dependencies xmlns="http://nwalsh.com/ns/depends">
+
+<depends>
+  <target>build/a.html</target>
+  <source>src/a.xml</source>
+  <source>style/format.xsl</source>
+</depends>
+
+<depends>
+  <target>build/b.html</target>
+  <source>src/b.xml</source>
+  <source>style/format.xsl</source>
+</depends>
+
+<depends>
+  <target>build/c.html</target>
+  <source>src/c.xml</source>
+  <source>style/format.xsl</source>
+</depends>
+
+</dependencies>
